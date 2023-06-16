@@ -1,4 +1,4 @@
-# PyCradt
+# PyCraft
 My eleventh grade project (2022 - 2023) - Game (networking, grafics)
 
 ----------------------------------------------------------------------
