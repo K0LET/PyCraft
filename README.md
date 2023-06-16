@@ -6,7 +6,7 @@ My eleventh grade project (2022 - 2023) - Game (networking, grafics)
 # Contents Table
 1. [How To Start The Game](#How-To-Start-The-Game)
 2. [How To Play The Gamw](#How-To-Play-The-Game)
-3. [Photos Of The App](#Photos-Of-The-App)
+3. [Photos Of The Game](#Photos-Of-The-Game)
 
 ----------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ to run the multiplayer game you will need the 2 main files - Server, Game
 
 ----------------------------------------------------------------------
 
-# Photos Of The App
+# Photos Of The Game
 ![Login Page](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Login%20Page.png?raw=true)
 ![Signup Page](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Signup%20Page.png?raw=true)
 ![Signup Page - Confirmation code](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Signup%20Page%20-%20Confirmation%20code.png?raw=true)
