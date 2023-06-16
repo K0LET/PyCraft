@@ -31,11 +31,6 @@ to run the multiplayer game you will need the 2 main files - Server, Game
 ----------------------------------------------------------------------
 
 # Photos Of The Game
-![Login Page](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Login%20Page.png?raw=true)
-![Signup Page](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Signup%20Page.png?raw=true)
-![Signup Page - Confirmation code](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Signup%20Page%20-%20Confirmation%20code.png?raw=true)
-![Reset Password Page](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Reset%20Password%20Page.png?raw=true)
-![Reset Password Page - Confirmation code](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Reset%20Password%20Page%20-%20Confirmation%20code.png?raw=true)
-![The App - Chats](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/The%20App%20-%20Chats.png?raw=true)
-![The App - Create New Chats](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/The%20App%20-%20Create%20New%20Chats.png?raw=true)
-![Server GUI](https://github.com/Omer-Dagry/ChatEase/blob/main/Photos/Server%20GUI.png?raw=true)
+![Entry Page]()
+![Connected to server]()
+![Game]()
