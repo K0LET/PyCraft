@@ -31,6 +31,6 @@ to run the multiplayer game you will need the 2 main files - Server, Game
 ----------------------------------------------------------------------
 
 # Photos Of The Game
-![Entry Page]()
+![Entry Page](https://github.com/K0LET/PyCraft/blob/main/pics/Screenshot%202023-06-17%20001424.png)
 ![Connected to server]()
 ![Game]()
