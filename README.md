@@ -5,7 +5,7 @@ My eleventh grade project (2022 - 2023) - Game (networking, grafics)
 
 # Contents Table
 1. [How To Start The Game](#How-To-Start-The-Game)
-2. [How To Play The Gamw](#How-To-Play-The-Game)
+2. [How To Play The Game](#How-To-Play-The-Game)
 3. [Photos Of The Game](#Photos-Of-The-Game)
 
 ----------------------------------------------------------------------
